@@ -15,3 +15,10 @@ This repository contains a classic Snake Game implemented in Java. The game feat
 - Use the arrow keys to control the snake's direction.
 - Collect food to grow longer.
 - Avoid collisions with the walls or the snake's own body.
+
+2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Run the `SnakeGame.java` file to start the game.
+
+## Prerequisites
+
+- Java Development Kit (JDK) 8 or higher
