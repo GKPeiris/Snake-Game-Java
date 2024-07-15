@@ -1,8 +1,8 @@
-# Snake Game in Java
+# Snake Game in Java 🐍🍵
 
 This repository contains a classic Snake Game implemented in Java. The game features a simple yet engaging interface where the player controls a snake to collect food, grow in size, and avoid collisions with the walls or itself. This project is a great example of basic game development in Java, demonstrating the use of Java Swing for the graphical user interface and key event handling for player input.
 
-## Features
+## Features 🪶
 
 - Classic Snake Game mechanics
 - Simple and intuitive controls
@@ -10,7 +10,7 @@ This repository contains a classic Snake Game implemented in Java. The game feat
 - Game over on collision with walls or self
 - Score tracking
 
-## How to Play
+## How to Play ▶️
 
 - Use the arrow keys to control the snake's direction.
 - Collect food to grow longer.
@@ -19,6 +19,6 @@ This repository contains a classic Snake Game implemented in Java. The game feat
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Run the `SnakeGame.java` file to start the game.
 
-## Prerequisites
+## Pre Requisites
 
 - Java Development Kit (JDK) 8 or higher
